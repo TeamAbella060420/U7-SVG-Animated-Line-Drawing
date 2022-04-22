@@ -18,4 +18,5 @@ svg {
 	stroke: #6fbc6d;
 	stroke-width: 2;
 	stroke-dasharray: 5;
+	stroke-dashoffset: 10;
 }
