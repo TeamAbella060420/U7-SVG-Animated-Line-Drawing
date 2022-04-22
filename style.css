@@ -30,5 +30,5 @@ svg {
 	stroke-dasharray: 810;
 	stroke-dashoffset: 810;
 
-	animation: offset 5s linear forwards;
+	animation: offset 5s linear forwards, fill-it .8s;
 }
