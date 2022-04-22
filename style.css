@@ -2,7 +2,11 @@
   Keyframes
 --------------------------- */
 
-
+@keyframes offset {
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
 
 /* --------------------------
   SVG Styles
